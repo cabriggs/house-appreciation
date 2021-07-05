@@ -1,0 +1,53 @@
+'fips' = The county Federal Information Processing Standard number
+'state' = two-letter state abbreviation
+'county' = county name
+'pop_in_later_year' = the population in pop_ref_later_year
+'pop_ref_later_year ' = the later year in which population was measured
+'pop_f' = the size of the female population 
+'pop_m' = the size of the male population
+'pop_in_2000' = the size of the population in 2000
+'median_age' = the median age in 2020
+'median_age_f ' = the median age of females in 2020
+'median_age_m' = the median age of males in 2020
+'median_house_income_2017 ' = the median household income in 2017
+'median_house_income_ref_val' = the median household income in the year median_house_income_ref_yr
+'median_house_income_ref_yr ' = the earlier year in which median household income was measured
+'median_house_value_2017' = the median house value in 2017
+'median_house_value_2000 ' = the median house value in 2000
+'avg_household_size' = the average number of people in a household
+'mar_coup_w_children' = the number of married couples with children
+'cost_of_living_usd ' = the cost of living index (average = 100) in the year cost_of_living_yr
+'cost_of_living_yr' = the year in which the cost of living index was measured
+'poverty_pct' = the percentage of the population in poverty
+'adult_obes_rate ' = adult obesity rate
+'presch_obes_rate' = preschooler obesity rate
+'commute_minutes' = average commute time in minutes
+'pop_per_sq_mi ' = the population per square mile
+'pop_percent_urban' = urban population / total population
+'unemploy_rate' = the unemployment rate
+'unemploy_date' = the year in which unemployment was measured
+'rent_1br_usd ' = median rent for a 1 bedroom apartment
+'rent_2br_usd' = median rent for a 2 bedroom apartment
+'rent_3br_usd' = median rent for a 3 bedroom apartment
+'avg_farm_size' = average farm size in acres
+'avg_farm_sales_usd ' = average farm sales in dollars
+'pct_farms_fam_op' = the percent of farms which are family operated
+'avg_farm_mach_val_usd' = the average total value of machinery at a farm
+'birth_per_1000_int1 ' = the births per 1000 population during the years births_from_yr_int1 to births_to_yr_int1
+'births_from_yr_int1' = the earlier year in the earlier interval in which birth rates were measured
+'births_from_yr_int2' = the earlier year in the latter interval in which birth rates were measured
+'birth_per_1000_int2 ' = the births per 1000 population during the years births_from_yr_int2 to births_to_yr_int2
+'births_to_yr_int1' = the latter year in the earlier interval in which birth rates were measured
+'births_to_yr_int2' = the latter year in the latter interval in which birth rates were measured
+'pop_foreign_born ' = the number of people who are foreign born
+'land_area_km2' = the land area in square km
+'land_area_mi2' = the land area in square miles
+'water_area_km2' = the water area in square km
+'water_area_mi2 ' = the water area in square miles
+'total_area_km2' = the total area in square miles
+'total_area_mi2' = the total area in square miles
+'latitude' = latitude of the county center
+'longitude' = longitude of the county center
+
+
+
