@@ -14,7 +14,7 @@ The model can now be deployed to predict home price growth given anticipated cha
 
 ## Problem statement
 
-
+How much of the variation in the increase of home values across US counties can be explained by publicly available almanac data about the counties?
 
 ## What data
 
@@ -28,7 +28,7 @@ The best performing model was an ensemble of neural networks. This model explain
 
 ### Technology
 
-
+The analysis was performed in a Jupyter notebook, leveraging the pandas and scikitlearn libraries.
 
 ## What conclusions
 
